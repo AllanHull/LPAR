@@ -1,0 +1,15 @@
+LPAR Application Notes
+
+2023JUN08
+	Main Page Index
+	Added App Store link to LPAR iphone application.
+	Change subscription to Free tier.
+
+2023JUN07
+	Privacy.cshtml
+	Added privacy content to Privacy.cshtml
+	LPAR > Pages > Privacy.cshtml
+
+2023JUN06 
+	Published LPAR to Azure
+
