@@ -1,5 +1,8 @@
 LPAR Application Notes
 
+2023JUL30
+	Recommit to GitHub
+
 2023JUN08
 	Main Page Index
 	Added App Store link to LPAR iphone application.
