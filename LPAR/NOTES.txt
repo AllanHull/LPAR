@@ -1,5 +1,11 @@
 LPAR Application Notes
 
+2023DEC12
+	Republish to Azure
+
+2023NOV14
+	Republish to Azure
+
 2023SEP15
 	Recommit to GitHub
 
